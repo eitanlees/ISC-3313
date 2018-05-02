@@ -28,10 +28,10 @@ topics will be broken up into four modules as such:
 - Beyond Base Python
     * Importing Modules, Conda/Pip, Environments
     * Numpy, Ndarrays, Ufuncs, Broadcasting, Fancy Indexing
-    * Matplotlib, Points and Lines, Contour, Sub- plots, Customization
+    * Matplotlib, Points and Lines, Contour, Subplots, Customization
 
 - Advanced Python
-    * Classes, Attributes, Methods, Inheritance, En- capsulation
+    * Classes, Attributes, Methods, Inheritance, Encapsulation
     * Iterators, List Comprehension, Generators
     * File IO, Command Line Arguments, OS and Sys modules
 
