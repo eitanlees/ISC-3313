@@ -15,3 +15,27 @@
 **Email**: elees@fsu.edu
 
 **Office Hours**: by appointment (please email)
+
+### Course Outline
+We will cover the basics of programming with python as well as some more advanced features. The
+topics will be broken up into four modules as such:
+
+- Python Fundamentals
+    * Introductio, Installation, and Basic Syntax
+    * Variables, Arithmetic and Boolean Operations, Scalar and Structured Data Types
+    * Conditional Flow and Loops, Defining Functions
+
+- Beyond Base Python
+    * Importing Modules, Conda/Pip, Environments
+    * Numpy, Ndarrays, Ufuncs, Broadcasting, Fancy Indexing
+    * Matplotlib, Points and Lines, Contour, Sub- plots, Customization
+
+- Advanced Python
+    * Classes, Attributes, Methods, Inheritance, En- capsulation
+    * Iterators, List Comprehension, Generators
+    * File IO, Command Line Arguments, OS and Sys modules
+
+- Scientific Python
+    * Scipy, Linalg, Stats, Interpolate, Optimize 
+    * Pandas, DataFrames, Time Series 
+    * Student Presentations, Conclusion
