@@ -21,7 +21,7 @@ We will cover the basics of programming with python as well as some more advance
 topics will be broken up into four modules as such:
 
 - Python Fundamentals
-    * Introductio, Installation, and Basic Syntax
+    * Introduction, Installation, and Basic Syntax
     * Variables, Arithmetic and Boolean Operations, Scalar and Structured Data Types
     * Conditional Flow and Loops, Defining Functions
 
