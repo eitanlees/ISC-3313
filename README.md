@@ -39,3 +39,5 @@ topics will be broken up into four modules as such:
     * Scipy, Linalg, Stats, Interpolate, Optimize 
     * Pandas, DataFrames, Time Series 
     * Student Presentations, Conclusion
+
+All lectures can be viewed online at [this link](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/Lectures/)
