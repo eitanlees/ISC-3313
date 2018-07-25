@@ -8,7 +8,7 @@
 
 **Dates**: May 14 – Aug 3 (12 weeks)
 
-### Instructor Infromation
+### Instructor Information
 
 **Name**: Eitan Lees
 
@@ -26,18 +26,24 @@ topics will be broken up into four modules as such:
     * Conditional Flow and Loops, Defining Functions
 
 - Beyond Base Python
-    * Importing Modules, Conda/Pip, Environments
-    * Numpy, Ndarrays, Ufuncs, Broadcasting, Fancy Indexing
-    * Matplotlib, Points and Lines, Contour, Subplots, Customization
+    * Creating/Installing Modules, Docstrings, Conda vs. Pip
+    * Numpy, Ndarrays, Ufuncs, Aggregations
+    * Matplotlib, Point/Line Plots,  Contour/3D Plots, Subplots/Customization
 
 - Advanced Python
-    * Classes, Attributes, Methods, Inheritance, Encapsulation
-    * Iterators, List Comprehension, Generators
+    * Classes, Attributes, Methods, Polymorphism
+    * List Comprehension, Flexible Arguments, Map/Filter
     * File IO, Command Line Arguments, OS and Sys modules
 
 - Scientific Python
     * Scipy, Linalg, Stats, Interpolate, Optimize 
     * Pandas, DataFrames, Time Series 
-    * Student Presentations, Conclusion
+    * Machine Learning, Scikit-Learn, Student Presentations
+
+In addition to the outline above, we will have select lectures on specific math topics, including but not limited to:
+
+- Ordinary Differential Equations
+- Numerical Calculus
+- Random Numbers/Monte Carlo
 
 All lectures can be viewed online at [this link](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/Lectures/)
