@@ -47,3 +47,11 @@ In addition to the outline above, we will have select lectures on specific math 
 - Random Numbers/Monte Carlo
 
 All lectures can be viewed online at [this link](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/Lectures/)
+
+### Acknowledgements
+
+Special thanks to Jake VanderPlas for many of the materials that have gone into this course. 
+
+Specifically his work:
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
