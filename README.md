@@ -50,8 +50,11 @@ All lectures can be viewed online at [this link](http://nbviewer.jupyter.org/git
 
 ### Acknowledgements
 
-Special thanks to Jake VanderPlas for many of the materials that have gone into this course. 
+Special thanks to:
 
-Specifically his work:
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Jake VanderPlas](https://jakevdp.github.io/) for many of the materials that have gone into this course. 
+    Specifically his work:
+    - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+    - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Lukas Bystricky](http://people.sc.fsu.edu/~lb13f/) for his advice and mentoring.
+- and lastly the [Scipy Lecture Notes](http://www.scipy-lectures.org/index.html) for many examples and explanations.
