@@ -1,5 +1,8 @@
 # ISC-3313 Introduction to Scientific Computing (Summer 2019)
 
+__NOTE__: The master branch contains the most recent version of ISC-3313. 
+If you are looking for previous version make sure to switch to the appropriate branch.
+
 ### Course Information
 
 **Time**: Tu/Th 11:00am - 12:15pm
