@@ -1,5 +1,7 @@
 # ISC-3313 Introduction to Scientific Computing (Summer 2018)
 
+NOTE: This is an archived branch for the summer of 2018. 
+
 ### Course Information
 
 **Time**: Tu/Th 11:00am - 12:15pm
