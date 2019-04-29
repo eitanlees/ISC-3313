@@ -1,4 +1,4 @@
-# ISC-3313 Introduction to Scientific Computing (Summer 2018)
+# ISC-3313 Introduction to Scientific Computing (Summer 2019)
 
 ### Course Information
 
