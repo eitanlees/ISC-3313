@@ -48,7 +48,7 @@ In addition to the outline above, we will have select lectures on specific math 
 - Numerical Calculus
 - Random Numbers/Monte Carlo
 
-All lectures can be viewed online at [this link](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/Lectures/)
+All lectures can be viewed online at [this link](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/summer-2018/Lectures/)
 
 ### Acknowledgements
 
