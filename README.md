@@ -7,9 +7,9 @@ If you are looking for previous version make sure to switch to the appropriate b
 
 All content for this course can be viewed online
 
-<div style="font-size:150%">
+<font size="20">
 <a href="http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/">Here</a>
-</div>
+</font>
 
 ### Course Information
 
