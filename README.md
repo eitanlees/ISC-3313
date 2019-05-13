@@ -3,11 +3,10 @@
 __NOTE__: The master branch contains the most recent version of ISC-3313. 
 If you are looking for previous version make sure to switch to the appropriate branch.
 
-### View Content
 
-All content for this course can be viewed online
+#### [View Content Online](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/)
 
-#### [Here](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/)
+All content for this course can be viewed online using the link above.
 
 ### Course Information
 
