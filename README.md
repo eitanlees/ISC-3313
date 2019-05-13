@@ -7,7 +7,7 @@ If you are looking for previous version make sure to switch to the appropriate b
 
 All content for this course can be viewed online
 
-####[Here](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/)
+#### [Here](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/)
 
 ### Course Information
 
