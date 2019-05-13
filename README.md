@@ -3,6 +3,14 @@
 __NOTE__: The master branch contains the most recent version of ISC-3313. 
 If you are looking for previous version make sure to switch to the appropriate branch.
 
+### View Content
+
+All content for this course can be viewed online
+
+<div style="font-size:150%">
+<a src='http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/Lectures/'>Here</a>
+</div>
+
 ### Course Information
 
 **Time**: Tu/Th 11:00am - 12:15pm
@@ -49,7 +57,6 @@ In addition to the outline above, we will have select lectures on specific math 
 - Numerical Calculus
 - Random Numbers/Monte Carlo
 
-All lectures can be viewed online at [this link](http://nbviewer.jupyter.org/github/eitanlees/ISC-3313/tree/master/Lectures/)
 
 ### Acknowledgements
 
