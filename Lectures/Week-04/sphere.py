@@ -7,6 +7,7 @@ def surface_area(radius):
     return 4 * pi * radius**2
 
 def volume(radius):
+    print('calculating volume')
     return (4/3) * pi * radius**3
 
 def circumference(radius):
